@@ -12,6 +12,7 @@
 
 ### 📚 Study Notes
 - 🧠 [Algorithm & Data-Structure](https://github.com/M1nKyu/Coding-Challenges) : 알고리즘 문제 풀이 및 자료구조 구현 (Java)
+- 💻 [CS-Studies](https://github.com/M1nKyu/CS-Studies) : CS 지식 및 TIL 기록
 
 <br>
 
