@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=shark&color=50c3f0&height=300&section=header&text=Minkyu's%20GitHub&fontSize=90&fontColor=ffffff&animation=fadeIn)
+
 <!--
 **M1nKyu/M1nkyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
