@@ -29,6 +29,9 @@
 <br><br>
 <hr>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M1nkyu&theme=github" width="777" height="432">
+
+
 [![M1nkyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1nkyu&hide=stars,issues&show_icons=true&count_private=true&title_color=57b3fe&hide_border=false)](https://github.com/M1nKyu)
 
 
