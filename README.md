@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&&color=57b3fe&height=150&section=header&text=Minkyu's%20GitHub&fontSize=70&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rect&color=a0d8ef&height=150&section=header&text=Minkyu&fontSize=70&fontColor=ffffff&animation=twinkling)
 
 ### 👋 Hi there!
 - 동아대학교 컴퓨터공학과 4학년 재학중
