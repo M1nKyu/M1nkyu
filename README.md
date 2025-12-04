@@ -7,6 +7,8 @@
 
 ### 📂 Projects
 - 👔 [날씨 기반 옷 추천 서비스](https://github.com/M1nKyu/weather-clothes)
+- 🚌 [개발자 커리어 멘토 플랫폼 BBUS](https://github.com/eclipse1228/BUSS-Developer-Roadmap--SNS)
+- 🔋 [AI 기반 웹사이트 디지털 탄소 측정 플랫폼(private)](https://github.com/CarbonAra-CBA/ecoweb)
 
 <br>
 
