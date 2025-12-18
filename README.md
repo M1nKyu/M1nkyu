@@ -8,6 +8,7 @@
 ### 📂 Projects
 - 👔 [날씨 기반 옷 추천 서비스](https://github.com/M1nKyu/weather-clothes)
 - 🚌 [개발자 커리어 멘토 플랫폼 BBUS](https://github.com/eclipse1228/BUSS-Developer-Roadmap--SNS)
+- ♻️ [Google Solution Challenge - Greenee](https://github.com/Google-eCarbon/ecarbon)
 - 🔋 [AI 기반 웹사이트 디지털 탄소 측정 플랫폼(private)](https://github.com/CarbonAra-CBA/ecoweb)
 
 <br>
@@ -27,6 +28,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+<br>
+
+### 🌐 [Blog](https://blog-minkyu.netlify.app/)
 
 <br><br>
 <hr>
