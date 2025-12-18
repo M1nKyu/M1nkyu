@@ -34,6 +34,3 @@
 
 <br><br>
 <hr>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=M1nkyu&theme=github" width="777" height="432">
-
